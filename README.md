@@ -100,7 +100,7 @@ Each scenario guides participants through 4 iterations:
 3. **Add Specificity:** Define structure, format, and expected outputs
 4. **Final Optimized Prompt:** Incorporate regulations, priorities, and complete requirements
 
-### Meta-Prompting
+### Meta-Prompting.
 
 Teaching Copilot to help refine prompts:
 ```
