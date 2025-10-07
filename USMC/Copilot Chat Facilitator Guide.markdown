@@ -103,6 +103,8 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
   - If you fall behind or you miss something, don't be bashful, let me know.
   - Ask questions.  A ton of them!
 
+#### Lead an AI Discussion
+
 ### Scenario 1: Language Understanding & Generation
 **Application:** Outlook | **USMC Focus:** S-1 (Administration/Personnel) | **Duration:** 20-25 min
 
