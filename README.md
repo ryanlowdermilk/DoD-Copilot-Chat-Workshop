@@ -33,24 +33,6 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 
 This repository provides structured workshop guides for each branch of the U.S. Armed Forces, demonstrating six core Copilot capabilities through real-world garrison scenarios. Each workshop is tailored to branch-specific operations, terminology, and organizational structures while maintaining consistent learning objectives across all services.
 
-## Repository Structure
-
-```
-DoD-Copilot-Chat-Workshop/
-├── README.md                              # This file
-├── USA/                                   # United States Army workshops
-│   └── README.md
-├── USAF/                                  # United States Air Force workshops
-│   └── README.md
-├── USMC/                                  # United States Marine Corps workshops
-│   ├── Copilot Chat Proctor Guide.markdown
-│   └── README.md
-├── USN/                                   # United States Navy workshops
-│   └── README.md
-└── USSF/                                  # United States Space Force workshops
-    └── README.md
-```
-
 ## Workshop Capabilities
 
 Each service-specific workshop demonstrates these six Copilot capabilities:
