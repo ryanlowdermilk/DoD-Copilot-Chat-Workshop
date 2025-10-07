@@ -62,7 +62,7 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 
 ---
 
-## Prerequisites & Setup
+## Prerequisites & Setup.
 
 ### For Facilitator
 - Verify DoD  environment: Standalone Copilot Chat enabled, no web grounding or M365 Copilot integrations.
