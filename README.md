@@ -29,6 +29,16 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 3. Follow progressive prompt iterations
 4. Practice in Copilot Chat
 
+### ⚠️ Critical Facilitator Guidance
+As a facilitator leading a hands-on immersive workshop, your role is to empower participants with actionable skills through active engagement and real-time problem-solving, rather than passive observation. By deeply understanding the content and delivering it authentically and conversationally, you'll create an energetic environment where attendees understand the power of AI and lasting learning. This approach transforms workshops from mere presentations into collaborative experiences that drive tangible progress and enthusiasm.
+
+- **Guide, don't lecture** - Walk participants through hands-on exercises
+- **Ask the "why"** - Discuss principles behind each prompt iteration
+- **Encourage experimentation** - Have participants modify prompts and observe results
+- **Facilitate problem-solving** - Help participants think through challenges, don't just give answers
+- **Monitor progress** - Circulate, observe screens, ensure everyone is building along
+- **Promote discussion** - Ask "What made this better?" and "How could we improve this?"
+
 ## Overview
 
 This repository provides structured workshop guides for each branch of the U.S. Armed Forces, demonstrating six core Copilot capabilities through real-world garrison scenarios. Each workshop is tailored to branch-specific operations, terminology, and organizational structures while maintaining consistent learning objectives across all services.
