@@ -6,9 +6,9 @@
 
 A comprehensive collection of hands-on training materials designed to teach Department of Defense personnel how to effectively use Microsoft Copilot Chat through authentic, service-specific scenarios.
 
-| Service | Status | Proctor Guide | Sample Data | Last Updated |
+| Service | Status | Facilitators Guide | Sample Data | Last Updated |
 |---------|--------|---------------|-------------|--------------|
-| 🪖 USMC | ✅ Complete | [View](USMC/Copilot%20Chat%20Proctor%20Guide.markdown) | Available | Oct 2025 |
+| 🪖 USMC | ✅ Complete | [View](USMC/Copilot%20Chat%20Facilitators%20Guide.markdown) | Available | Oct 2025 |
 | 🪖 USA  | 🔄 In Progress | Coming Soon | - | - |
 | ✈️ USAF | 📋 Planned | Coming Soon | - | - |
 | ⚓ USN  | 📋 Planned | Coming Soon | - | - |
@@ -19,7 +19,7 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 ### For Workshop Facilitators
 1. Clone this repository
 2. Navigate to your service folder (e.g., `/USMC/`)
-3. Open the Proctor Guide
+3. Open the Facilitators Guide
 4. Load sample data templates
 5. Launch workshop!
 
@@ -63,7 +63,7 @@ Each service-specific workshop demonstrates these six Copilot capabilities:
 
 - **Duration:** 3 hours per service workshop
 - **Structure:** 6 independent scenarios (20-25 minutes each)
-- **Approach:** Hands-on, proctor-guided with progressive prompt building
+- **Approach:** Hands-on, facilitators-guided with progressive prompt building
 - **Classification:** UNCLASSIFIED
 - **Technical Environment:** Standalone Copilot Chat with Microsoft 365 applications (no web grounding or integrated features)
 
@@ -118,7 +118,7 @@ Let's work through this step by step: 1) [analyze], 2) [identify], 3) [recommend
 
 ### USMC (United States Marine Corps)
 - **Status:** Complete ✅
-- **File:** [USMC/Copilot Chat Proctor Guide.markdown](USMC/Copilot%20Chat%20Proctor%20Guide.markdown)
+- **File:** [USMC/Copilot Chat Facilitators Guide.markdown](USMC/Copilot%20Chat%20Facilitators%20Guide.markdown)
 - **Installations:** Camp Lejeune, Camp Pendleton, Quantico
 - **Staff Sections:** S-1 (Admin/Personnel), S-2 (Intelligence), S-3 (Operations), S-4 (Logistics), S-6 (Communications)
 
@@ -162,7 +162,7 @@ This project is maintained for DoD training purposes. For updates or corrections
 
 ## Version History
 
-- **v1.0** (October 2025) - Initial USMC Proctor Guide
+- **v1.0** (October 2025) - Initial USMC Facilitators Guide
 - Additional service branches in development
 
 ## License
