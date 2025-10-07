@@ -1,4 +1,8 @@
 # DoD Copilot Chat Workshops
+![Classification](https://img.shields.io/badge/Classification-UNCLASSIFIED-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-Free-blue)
+![Version](https://img.shields.io/badge/Version-1.0-orange)
 
 A comprehensive collection of hands-on training materials designed to teach Department of Defense personnel how to effectively use Microsoft Copilot Chat through authentic, service-specific scenarios.
 
