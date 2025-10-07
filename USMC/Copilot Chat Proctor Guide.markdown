@@ -1,4 +1,4 @@
-# USMC Copilot Chat Hands-On Lab: Proctor Guide
+# USMC Copilot Chat Hands-On Workshop: Proctor Guide
 ## 6 Copilot Capabilities Across Real-World Marine Corps Scenarios
 
 **Version:** October 07, 2025  
@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-- [Lab Overview](#lab-overview)
+- [Workshop Overview](#workshop-overview)
 - [Prerequisites & Setup](#prerequisites--setup)
 - [Scenario Modules](#scenario-modules)
   - [Scenario 1: Language Understanding & Generation](#scenario-1-language-understanding--generation)
@@ -22,9 +22,9 @@
 
 ---
 
-## Lab Overview
+## Workshop Overview
 
-This guide provides proctors with the structure and technical steps to facilitate a hands-on lab for US Marine Corps personnel on using standalone Copilot Chat. The lab demonstrates six independent scenarios, each highlighting a unique Copilot capability in authentic "in garrison" contexts at USMC installations like Camp Lejeune, Camp Pendleton, or Quantico.
+This guide provides proctors with the structure and technical steps to facilitate a hands-on workshop for US Marine Corps personnel on using standalone Copilot Chat. The workshop demonstrates six independent scenarios, each highlighting a unique Copilot capability in authentic "in garrison" contexts at USMC installations like Camp Lejeune, Camp Pendleton, or Quantico.
 
 ### Training Objectives
 - Demonstrate how to use standalone Copilot Chat to enhance productivity in Microsoft 365 applications without integrated features or web grounding.
@@ -37,8 +37,8 @@ This guide provides proctors with the structure and technical steps to facilitat
 - **Skill Level:** L100-L200 (beginner to intermediate familiarity with M365 apps and basic prompting).
 - **Environment:** In garrison at USMC bases, focusing on administrative, operational, and logistical duties.
 
-### Lab Structure
-The lab consists of six independent scenarios, each 20-25 minutes, allowing flexibility for breaks or Q&A. Scenarios do not build on each other and can be reordered if needed.
+### Workshop Structure
+The workshop consists of six independent scenarios, each 20-25 minutes, allowing flexibility for breaks or Q&A. Scenarios do not build on each other and can be reordered if needed.
 
 ### Facilitation Approach
 - Guide participants through technical steps without scripts.
