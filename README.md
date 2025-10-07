@@ -76,10 +76,10 @@ Each service-specific workshop demonstrates these six Copilot capabilities:
 - DoD-approved versions of M365 applications (Outlook, Word, Excel, Power Automate, Power BI, Teams)
 - NIPRNet or equivalent secure network access
 
-### For Proctors
+### For Facilitators
 
 1. Navigate to your service branch folder (USA, USAF, USMC, USN, or USSF)
-2. Review the proctor guide for detailed facilitation instructions
+2. Review the facilitator guide for detailed facilitation instructions
 3. Verify technical environment setup per prerequisites
 4. Prepare sample datasets (templates provided in service folders)
 5. Test copy/paste workflows between Copilot Chat and M365 apps
