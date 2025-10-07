@@ -2,9 +2,32 @@
 
 A comprehensive collection of hands-on training materials designed to teach Department of Defense personnel how to effectively use Microsoft Copilot Chat through authentic, service-specific scenarios.
 
+## 🚀 Quick Start (5 Minutes)
+
+### For Workshop Facilitators
+1. Clone this repository
+2. Navigate to your service folder (e.g., `/USMC/`)
+3. Open the Proctor Guide
+4. Load sample data templates
+5. Launch workshop!
+
+### For Self-Paced Learning
+1. Review [Getting Started](#getting-started)
+2. Choose a scenario from your service branch
+3. Follow progressive prompt iterations
+4. Practice in Copilot Chat
+
 ## Overview
 
 This repository provides structured workshop guides for each branch of the U.S. Armed Forces, demonstrating six core Copilot capabilities through real-world garrison scenarios. Each workshop is tailored to branch-specific operations, terminology, and organizational structures while maintaining consistent learning objectives across all services.
+
+| Service | Status | Proctor Guide | Sample Data | Last Updated |
+|---------|--------|---------------|-------------|--------------|
+| 🪖 USMC | ✅ Complete | [View](USMC/Copilot%20Chat%20Proctor%20Guide.markdown) | Available | Oct 2025 |
+| 🪖 USA  | 🔄 In Progress | Coming Soon | - | - |
+| ✈️ USAF | 📋 Planned | Coming Soon | - | - |
+| ⚓ USN  | 📋 Planned | Coming Soon | - | - |
+| 🚀 USSF | 📋 Planned | Coming Soon | - | - |
 
 ## Repository Structure
 
@@ -38,9 +61,6 @@ Each service-specific workshop demonstrates these six Copilot capabilities:
 ## Target Audience
 
 - **Skill Level:** L100-L200 (beginner to intermediate)
-- **Personas:** 
-  - **Doers:** Junior enlisted (E1-E4) and junior officers (O1-O2) performing tactical tasks
-  - **Managers:** Non-commissioned officers (E5-E7) and mid-grade officers (O3-O4) overseeing operations
 - **Environment:** In garrison at military installations, focusing on administrative, operational, and logistical duties
 
 ## Workshop Format
