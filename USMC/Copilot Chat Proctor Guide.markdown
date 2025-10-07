@@ -24,16 +24,16 @@
 
 ## Workshop Overview
 
-This guide provides proctors with the structure and technical steps to facilitate a hands-on workshop for US Marine Corps personnel on using standalone Copilot Chat. The workshop demonstrates six independent scenarios, each highlighting a unique Copilot capability in authentic "in garrison" contexts at USMC installations like Camp Lejeune, Camp Pendleton, or Quantico.
+This guide provides facilitators with the structure and technical steps to facilitate a hands-on workshop for US Marine Corps personnel on using standalone Copilot Chat. The workshop demonstrates six independent scenarios, each highlighting a unique Copilot capability in authentic "in garrison" contexts at USMC installations like Camp Lejeune, Camp Pendleton, or Quantico.
 
 ### Training Objectives
 - Demonstrate how to use standalone Copilot Chat to enhance productivity in Microsoft 365 applications without integrated features or web grounding.
 - Build skills in progressive prompt building, meta-prompting, and chain of reasoning for effective Copilot interactions.
-- Apply Copilot capabilities to real-world USMC tasks relevant to both Doer (E1-E4, O1-O2) and Manager (E5-E7, O3-O4) personas.
+- Apply Copilot capabilities to real-world USMC tasks relevant to both Doer (E1-E4, O1-O2) and Leader (E5-E7, O3-O4) personas.
 - Ensure participants can copy/paste between Copilot Chat and M365 apps in a secure DoD environment.
 
 ### Target Audience Description
-- **Personas:** Doers (junior Marines and officers performing tactical tasks) and Managers (NCOs and mid-grade officers overseeing operations).
+- **Personas:** Doers (junior Marines and officers performing tactical tasks) and Leaders (NCOs and mid-grade officers overseeing operations).
 - **Skill Level:** L100-L200 (beginner to intermediate familiarity with M365 apps and basic prompting).
 - **Environment:** In garrison at USMC bases, focusing on administrative, operational, and logistical duties.
 
@@ -50,6 +50,7 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 - Laptops with Microsoft 365 E5 licenses (DoD-compliant).
 - Access to standalone Copilot Chat via web browser or app.
 - Sample data files (e.g., mock emails, spreadsheets) pre-loaded in M365 apps.
+- Venue with good connectivity both for participants and facilitator.
 - Projector for demonstrating steps.
 
 ### Timing Breakdown
@@ -63,11 +64,12 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 
 ## Prerequisites & Setup
 
-### For Proctor
+### For Facilitator
 - Verify DoD  environment: Standalone Copilot Chat enabled, no web grounding or M365 Copilot integrations.
 - Prepare sample datasets: Mock USMC documents (e.g., emails, OPORD templates, spreadsheets) compliant with UNCLASSIFIED handling.
 - Test workflows: Copy/paste between Copilot Chat and M365 apps.
-- Setup attendee accounts: Ensure E1-O4 personnel have access to required apps.
+- Setup attendee accounts: Ensure participants have access to required apps.
+- Change mouse pointer size and color.
 
 ### Technical Environment Verification
 - Confirm offline functionality: Copilot Chat operates without internet search.
@@ -77,6 +79,7 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 ### Required Attendee Access/Accounts
 - Microsoft 365 accounts with Copilot Chat access.
 - Permissions for M365 apps in scenarios.
+- Power BI desktop client installed.
 
 ### Pre-Work Attendees Should Complete
 - Review basic Copilot Chat interface (5-10 min tutorial).
@@ -90,6 +93,12 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 ---
 
 ## Scenario Modules
+
+### Introduction
+
+- Team Introduction
+
+
 
 ### Scenario 1: Language Understanding & Generation
 **Application:** Outlook | **USMC Focus:** S-1 (Administration/Personnel) | **Duration:** 20-25 min
