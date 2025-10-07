@@ -6,6 +6,14 @@
 
 A comprehensive collection of hands-on training materials designed to teach Department of Defense personnel how to effectively use Microsoft Copilot Chat through authentic, service-specific scenarios.
 
+| Service | Status | Proctor Guide | Sample Data | Last Updated |
+|---------|--------|---------------|-------------|--------------|
+| 🪖 USMC | ✅ Complete | [View](USMC/Copilot%20Chat%20Proctor%20Guide.markdown) | Available | Oct 2025 |
+| 🪖 USA  | 🔄 In Progress | Coming Soon | - | - |
+| ✈️ USAF | 📋 Planned | Coming Soon | - | - |
+| ⚓ USN  | 📋 Planned | Coming Soon | - | - |
+| 🚀 USSF | 📋 Planned | Coming Soon | - | - |
+
 ## 🚀 Quick Start (5 Minutes)
 
 ### For Workshop Facilitators
@@ -24,14 +32,6 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 ## Overview
 
 This repository provides structured workshop guides for each branch of the U.S. Armed Forces, demonstrating six core Copilot capabilities through real-world garrison scenarios. Each workshop is tailored to branch-specific operations, terminology, and organizational structures while maintaining consistent learning objectives across all services.
-
-| Service | Status | Proctor Guide | Sample Data | Last Updated |
-|---------|--------|---------------|-------------|--------------|
-| 🪖 USMC | ✅ Complete | [View](USMC/Copilot%20Chat%20Proctor%20Guide.markdown) | Available | Oct 2025 |
-| 🪖 USA  | 🔄 In Progress | Coming Soon | - | - |
-| ✈️ USAF | 📋 Planned | Coming Soon | - | - |
-| ⚓ USN  | 📋 Planned | Coming Soon | - | - |
-| 🚀 USSF | 📋 Planned | Coming Soon | - | - |
 
 ## Repository Structure
 
