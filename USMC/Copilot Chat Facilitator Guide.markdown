@@ -97,8 +97,11 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 ### Introduction
 
 - Team Introduction
-
-
+- Administrative Topics
+- Rules of Engagement:
+  - This is meant to be hands-on and immersive.  We learn by doing.  Dive in.
+  - If you fall behind or you miss something, don't be bashful, let me know.
+  - Ask questions.  A ton of them!
 
 ### Scenario 1: Language Understanding & Generation
 **Application:** Outlook | **USMC Focus:** S-1 (Administration/Personnel) | **Duration:** 20-25 min
