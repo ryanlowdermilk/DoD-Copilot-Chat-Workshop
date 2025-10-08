@@ -8,11 +8,11 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 
 | Service | Status | Facilitators Guide | Sample Data | Last Updated |
 |---------|--------|---------------|-------------|--------------|
-| 🪖 USMC | ✅ Complete | [View](USMC/Copilot%20Chat%20Facilitator%20Guide.markdown) | Available | Oct 2025 |
-| 🪖 USA  | 🔄 In Progress | Coming Soon | - | - |
-| ✈️ USAF | 📋 Planned | Coming Soon | - | - |
-| ⚓ USN  | 📋 Planned | Coming Soon | - | - |
-| 🚀 USSF | 📋 Planned | Coming Soon | - | - |
+| 🪖 USMC | ✅ Complete | [View](USMC/README.md) | In Progress | Oct 2025 |
+| 🪖 USA  | 🔄 In Progress | [View](USA/README.md) | - | - |
+| ✈️ USAF | 🔄 In Progress | [View](USAF/README.md) | - | - |
+| ⚓ USN  | 🔄 In Progress | [View](USN/README.md) | - | - |
+| 🚀 USSF | 🔄 In Progress | [View](USSF/README.md) | - | - |
 
 ## 🚀 Quick Start (5 Minutes)
 
