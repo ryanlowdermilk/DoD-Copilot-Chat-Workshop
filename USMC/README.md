@@ -57,7 +57,7 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 - Introduction: 10 minutes
 - Each Scenario: 20-25 minutes (setup 2 min, hands-on 15 min, discussion 5 min)
 - Breaks: 10 minutes total
-- Wrap-up: 10 minutes
+- Wrap-up: 10 minutes  
 ⏱️ **Total:** 3 hours
 
 ---
@@ -97,19 +97,38 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 ### Introduction
 
 - Team Introduction
+    - Bonus points: Use M365 Copilot to introduce yourself with this prompt and play the response on the room's speakers:  
+    ```
+    "Hi Copilot, I'm giving a workshop on Copilot Chat to Marines at MCAS Miramar.  Please introduce me to the participants in 100 words or less."
+    ```
 - Administrative Topics
 - Rules of Engagement:
   - This is meant to be hands-on and immersive.  We learn by doing.  Dive in.
   - If you fall behind or you miss something, don't be bashful, let me know.
   - Ask questions.  A ton of them!
 
-#### Lead an AI Discussion
+### Lead an AI Discussion
+Start by getting a gauge for your audience and their thoughts on AI.  This can be done by asking open-ended questions and giving your participants room to speak. Rather than answering them directly, open it up to the rest of the room, "Yeah, that's a great comment.  Does anyone have any thoughts on that?"  
+
+Another great way is by using Microsoft Forms and having folks submit answers to, "What are your thoughts on AI in three words or less?"
+
+Some talking points that will most likely be discussed:
+- AI is bad for society
+- AI hallucinations
+- AI increases productivity and efficiency
+- AI makes it easier for bad actors to do bad things
+
+In the end, the conversation should lead to this:  
+```
+No matter your viewpoint on AI, our enemies are using it.  If we don't want to bring bows and arrows to the next battle, then we need to use AI as well.  This session is designed to give you ahnds-on experience into six AI functions and hopefully some insight how you can use AI in your day-to-day work.
+```
+Let's dive right in...
 
 ### Scenario 1: Language Understanding & Generation
 **Application:** Outlook | **USMC Focus:** S-1 (Administration/Personnel) | **Duration:** 20-25 min
 
 #### Scenario Context
-At Camp Lejeune, a Lance Corporal (E-3) processes quarterly award nominations, while a Staff Sergeant (E-6) oversees submissions. Use Copilot to handle email correspondence on awards, FITREPs, and leave authorizations. This demonstrates efficient communication in garrison admin tasks.
+At Camp Lejeune, a lance corporal (E-3) processes quarterly award nominations, while a staff sergeant (E-6) oversees submissions. Use Copilot to handle email correspondence on awards, FITREPs, and leave authorizations. This demonstrates efficient communication in garrison admin tasks.
 
 #### Copilot Capability Focus
 - Primary: Language Understanding & Generation for summarization and drafting.
@@ -188,7 +207,7 @@ As an S-1 clerk at Camp Lejeune, summarize this email thread on award nomination
 **Application:** Word | **USMC Focus:** S-3 (Operations) | **Duration:** 20-25 min
 
 #### Scenario Context
-At Camp Pendleton, a Sergeant (E-5) drafts training schedules, while a Captain (O-3) reviews OPORDs. Use Copilot to structure documents and resolve conflicts in garrison operations planning.
+At Camp Pendleton, a sergeant (E-5) drafts training schedules, while a captain (O-3) reviews OPORDs. Use Copilot to structure documents and resolve conflicts in garrison operations planning.
 
 #### Copilot Capability Focus
 - Primary: Reasoning & Decision Support for analysis and recommendations.
@@ -221,7 +240,7 @@ Draft a battalion training schedule in OPORD format: Include sections for situat
 
 ##### Iteration 4: Final Optimized Prompt
 ```
-As an S-3 planner at Camp Pendleton, draft a training OPORD: Structure with 5-paragraph format, analyze conflicts in range requests and manpower, recommend priorities based on T&R manual, and suggest risk mitigations.
+As an S-3 planner at Camp Pendleton, draft a training OPORD: Structure with 5-paragraph order format matching Chapter 7 of the Naval Correspondence Manual, analyze conflicts in range requests and manpower, recommend priorities based on T&R manual, and suggest risk mitigations.
 ```
 - Final refinements: Incorporates doctrinal references.
 - Complete output example: Full OPORD with decision framework.
@@ -267,7 +286,7 @@ As an S-3 planner at Camp Pendleton, draft a training OPORD: Structure with 5-pa
 **Application:** Excel | **USMC Focus:** S-4 (Logistics) | **Duration:** 20-25 min
 
 #### Scenario Context
-At Quantico, a Corporal (E-4) tracks equipment readiness, while a 1stLt (O-2) analyzes supply data. Use Copilot to interpret maintenance logs in garrison logistics management.
+At Quantico, a corporal (E-4) tracks equipment readiness, while a 1stLt (O-2) analyzes supply data. Use Copilot to interpret maintenance logs in garrison logistics management.
 
 #### Copilot Capability Focus
 - Primary: Data Analysis & Visualization for insights and chart suggestions.
@@ -346,7 +365,7 @@ As an S-4 logistician at Quantico, analyze this CMR data: Detect patterns in sho
 **Application:** Power Automate | **USMC Focus:** S-6 (Communications) | **Duration:** 20-25 min
 
 #### Scenario Context
-At Camp Lejeune, a Lance Corporal (E-3) processes help desk tickets, while a Captain (O-3) designs network workflows. Use Copilot to build automations for SIPR/NIPR access in garrison comms ops.
+At Camp Lejeune, a lance corporal (E-3) processes help desk tickets, while a captain (O-3) designs network workflows. Use Copilot to build automations for SIPR/NIPR access in garrison comms ops.
 
 #### Copilot Capability Focus
 - Primary: Automation & Orchestration for workflow design.
