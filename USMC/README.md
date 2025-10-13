@@ -167,10 +167,10 @@ As an S-1 clerk at Camp Lejeune, summarize this email thread on award nomination
 - Complete output example: Structured list plus full email draft.
 
 #### Technical Steps
-1. Open Outlook and select a sample email thread on award nominations.
-2. Copy the thread content and paste into standalone Copilot Chat.
-3. Enter progressive prompts (iterations 1-4) one by one, observing improvements.
-4. Copy Copilot's output (summary and draft) back to Outlook to create a new email.
+1. Open the [sample email thread](/USMC/sample%20data/scenario1_email_thread.txt) on award nominations and review the contents.
+2. Either attach the [sample email file](/USMC/sample%20data/scenario1_email_thread.txt) to standalone Copilot Chat or copy and paste the thread content into the chat interface.
+3. Enter progressive prompts (iterations 1-4) one by one, observing improvements with each iteration.
+4. Review Copilot's output (summary and draft response). Note that in a real-world scenario, this output could be used to reply to the actual email thread.
 5. Verify tone adjustment for junior vs. senior ranks.
 
 #### Facilitation Notes
