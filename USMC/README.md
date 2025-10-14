@@ -325,8 +325,8 @@ As an S-4 logistician at Quantico, analyze this CMR data: Detect patterns in sho
 - Complete output example: Insights plus chart descriptions.
 
 #### Technical Steps
-1. Open Excel with sample maintenance dataset.
-2. Copy data range and paste into Copilot Chat.
+1. Open Excel with [sample maintenance dataset](/USMC/sample%20data/scenario3_equipment_readiness.xlsx).
+2. Attach the sample dataset or copy data range and paste into Copilot Chat.
 3. Use progressive prompts to generate insights.
 4. Copy suggestions back to Excel to create charts.
 5. Verify patterns match data.
@@ -405,7 +405,7 @@ As an S-6 admin at Camp Lejeune, design a Power Automate flow for help desk: Tri
 
 #### Technical Steps
 1. Open Power Automate and start a new flow.
-2. Paste ticket sample data into Copilot Chat.
+2. Paste or attach [ticket sample data](/USMC/sample%20data/scenario4_helpdesk_tickets.xlsx) into Copilot Chat.
 3. Use prompts to generate flow logic.
 4. Copy steps to Power Automate and build.
 5. Test basic automation.
@@ -483,7 +483,7 @@ As an S-2 analyst at Camp Pendleton, search this Power BI dashboard data: Retrie
 - Complete output example: Structured summary.
 
 #### Technical Steps
-1. Open Power BI with sample intel dataset.
+1. Open Power BI with [sample intel dataset](/USMC/sample%20data/scenario5_intelligence_data.xlsx).
 2. Copy dashboard metrics or visuals description into Copilot Chat.
 3. Use prompts to extract data.
 4. Copy organized output back to Power BI notes or report.
@@ -562,8 +562,8 @@ As an S-1 manager at Quantico, summarize promotion board notes: Incorporate MARA
 - Complete output example: Adapted summary and messages.
 
 #### Technical Steps
-1. Open Teams and access sample meeting transcript.
-2. Copy notes into Copilot Chat.
+1. Open the [sample meeting transcript](/USMC/sample%20data/scenario6_meeting_transcript.txt) and review.
+2. Copy or attach sample meeting transcript into Copilot Chat.
 3. Apply progressive prompts for refinements.
 4. Paste personalized output back to Teams chat or agenda.
 5. Check context alignment.
