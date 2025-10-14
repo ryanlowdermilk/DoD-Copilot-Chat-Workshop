@@ -246,10 +246,10 @@ As an S-3 planner at Camp Pendleton, draft a training OPORD: Structure with 5-pa
 - Complete output example: Full OPORD with decision framework.
 
 #### Technical Steps
-1. Open Word and create a new document for the OPORD.
-2. Paste sample training data (e.g., event list) into Copilot Chat.
+1. Open [sample document](/USMC/sample%20data/scenario2_training_data.txt) for the OPORD.
+2. Attach the sample data file or paste sample training data (e.g., event list) into Copilot Chat.
 3. Input progressive prompts, refining based on outputs.
-4. Copy recommendations and structure back to Word.
+4. Optional: Copy recommendations and structure into a new Word document.
 5. Edit for final formatting, demonstrating reasoning application.
 
 #### Facilitation Notes
