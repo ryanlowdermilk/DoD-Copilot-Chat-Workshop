@@ -8,7 +8,7 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 
 | Service | Status | Facilitators Guide | Sample Data | Last Updated |
 |---------|--------|---------------|-------------|--------------|
-| 🪖 USMC | ✅ Complete | [View](USMC/README.md) | In Progress | Oct 2025 |
+| 🪖 USMC | ✅ Complete | [View](USMC/README.md) | [View](/USMC/sample%20data/) | Oct 2025 |
 | 🪖 USA  | 🔄 In Progress | [View](USA/README.md) | - | - |
 | ✈️ USAF | 🔄 In Progress | [View](USAF/README.md) | - | - |
 | ⚓ USN  | 🔄 In Progress | [View](USN/README.md) | - | - |
