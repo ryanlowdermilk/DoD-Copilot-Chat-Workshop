@@ -405,7 +405,7 @@ As an S-6 admin at Camp Lejeune, design a Power Automate flow for help desk: Tri
 
 #### Technical Steps
 1. Open Power Automate and start a new flow.
-2. Paste or attach [ticket sample data](/USMC/sample%20data/scenario4_helpdesk_tickets.xlsx) into Copilot Chat.
+2. Drag and drop or paste [ticket sample data](/USMC/sample%20data/scenario4_helpdesk_tickets.xlsx) into Copilot Chat.
 3. Use prompts to generate flow logic.
 4. Copy steps to Power Automate and build.
 5. Test basic automation.
@@ -523,7 +523,7 @@ As an S-2 analyst at Camp Pendleton, search this Power BI dashboard data: Retrie
 **Application:** Teams | **USMC Focus:** S-1 (Administration/Personnel) | **Duration:** 20-25 min
 
 #### Scenario Context
-At Quantico, a Staff Sergeant (E-6) summarizes promotion meetings, while a Captain (O-3) generates agendas. Use Copilot to adapt comms to ranks in garrison personnel planning.
+At Quantico, a Staff Sergeant (E-6) uses a Team Meeting transcript to summarize promotion meetings, while a Captain (O-3) generates agendas. Use Copilot to adapt comms to ranks in garrison personnel planning.
 
 #### Copilot Capability Focus
 - Primary: Personalization & Context Awareness for adaptive content.
