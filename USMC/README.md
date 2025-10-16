@@ -325,8 +325,8 @@ As an S-4 logistician at Quantico, analyze this CMR data: Detect patterns in sho
 - Complete output example: Insights plus chart descriptions.
 
 #### Technical Steps
-1. Open Excel with [sample maintenance dataset](/USMC/sample%20data/scenario3_equipment_readiness.xlsx).
-2. Attach the sample dataset or copy data range and paste into Copilot Chat.
+1. Open Excel with [sample maintenance dataset](/USMC/sample%20data/scenario3_equipment_readiness.xlsx) and review the data.
+2. Drag and drop the sample dataset or copy data range and paste into Copilot Chat.
 3. Use progressive prompts to generate insights.
 4. Copy suggestions back to Excel to create charts.
 5. Verify patterns match data.
