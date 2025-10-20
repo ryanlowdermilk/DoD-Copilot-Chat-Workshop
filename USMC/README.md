@@ -1,5 +1,6 @@
 # USMC Copilot Chat Hands-On Workshop: Proctor Guide
-## 6 Copilot Capabilities Across Real-World Marine Corps Scenarios
+
+## 6 Copilot Capabilities Across Real-World Marine Corps Scenarios (DoD Cloud, Web Grounding Disabled)
 
 **Version:** October 07, 2025  
 **Classification:** UNCLASSIFIED  
@@ -26,11 +27,12 @@
 
 This guide provides facilitators with the structure and technical steps to facilitate a hands-on workshop for US Marine Corps personnel on using standalone Copilot Chat. The workshop demonstrates six independent scenarios, each highlighting a unique Copilot capability in authentic "in garrison" contexts at USMC installations like Camp Lejeune, Camp Pendleton, or Quantico.
 
+
 ### Training Objectives
-- Demonstrate how to use standalone Copilot Chat to enhance productivity in Microsoft 365 applications without integrated features or web grounding.
+- Demonstrate how to use Microsoft 365 Copilot Chat (with web grounding disabled by admin policy) to enhance productivity in Microsoft 365 applications.
 - Build skills in progressive prompt building, meta-prompting, and chain of reasoning for effective Copilot interactions.
 - Apply Copilot capabilities to real-world USMC tasks relevant to both Doer (E1-E4, O1-O2) and Leader (E5-E7, O3-O4) personas.
-- Ensure participants can copy/paste between Copilot Chat and M365 apps in a secure DoD environment.
+- Ensure participants can copy/paste and/or upload files between Copilot Chat and M365 apps in a secure DoD cloud environment.
 
 ### Target Audience Description
 - **Personas:** Doers (junior Marines and officers performing tactical tasks) and Leaders (NCOs and mid-grade officers overseeing operations).
@@ -46,9 +48,10 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 - Monitor for compliance with standalone Copilot Chat usage (no in-app integrations).
 - Encourage discussion on meta-prompting and chain of reasoning.
 
+
 ### Required Materials/Setup
-- Laptops with Microsoft 365 E5 licenses (DoD-compliant).
-- Access to standalone Copilot Chat via web browser or app.
+- Laptops with Microsoft 365 E5 **plus Microsoft 365 Copilot add-on licenses** (DoD-compliant).
+- Access to Microsoft 365 Copilot Chat via web browser (web-only for DoD cloud tenants).
 - Sample data files (e.g., mock emails, spreadsheets) pre-loaded in M365 apps.
 - Venue with good connectivity both for participants and facilitator.
 - Projector for demonstrating steps.
@@ -71,19 +74,26 @@ The workshop consists of six independent scenarios, each 20-25 minutes, allowing
 - Setup attendee accounts: Ensure participants have access to required apps.
 - Change mouse pointer size and color.
 
+
 ### Technical Environment Verification
-- Confirm offline functionality: Copilot Chat operates without internet search.
+- Confirm **web search grounding is disabled**: Copilot Chat is configured by admin policy to not use web search.
+- Verify DoD cloud environment: Confirm GCC High or DoD tenant (web-only Copilot Chat experience).
+- Check Copilot license assignments: All participants have Microsoft 365 Copilot add-on licenses.
 - Check app versions: Outlook, Word, Excel, Power Automate, Power BI, Teams (latest DoD-approved).
 - Validate security: All activities in NIPRNet or equivalent.
 
+
 ### Required Attendee Access/Accounts
-- Microsoft 365 accounts with Copilot Chat access.
+- Microsoft 365 accounts with Copilot Chat and Microsoft 365 Copilot add-on license access.
 - Permissions for M365 apps in scenarios.
 - Power BI desktop client installed.
+
 
 ### Pre-Work Attendees Should Complete
 - Review basic Copilot Chat interface (5-10 min tutorial).
 - Familiarize with M365 apps used in scenarios.
+- Review DoD cloud limitations for Copilot features (web-only, some features may be restricted).
+
 
 ### Expected Baseline Knowledge for Attendees
 - Basic navigation in M365 apps.
@@ -166,9 +176,10 @@ As an S-1 clerk at Camp Lejeune, summarize this email thread on award nomination
 - Final refinements: Adds regulatory reference for authenticity.
 - Complete output example: Structured list plus full email draft.
 
+
 #### Technical Steps
 1. Open the [sample email thread](/USMC/sample%20data/scenario1_email_thread.txt) on award nominations and review the contents.
-2. Either attach the [sample email file](/USMC/sample%20data/scenario1_email_thread.txt) to standalone Copilot Chat or copy and paste the thread content into the chat interface.
+2. Either upload the [sample email file](/USMC/sample%20data/scenario1_email_thread.txt) to Copilot Chat or copy and paste the thread content into the chat interface.
 3. Enter progressive prompts (iterations 1-4) one by one, observing improvements with each iteration.
 4. Review Copilot's output (summary and draft response). Note that in a real-world scenario, this output could be used to reply to the actual email thread.
 5. Verify tone adjustment for junior vs. senior ranks.
@@ -245,9 +256,10 @@ As an S-3 planner at Camp Pendleton, draft a training OPORD: Structure with 5-pa
 - Final refinements: Incorporates doctrinal references.
 - Complete output example: Full OPORD with decision framework.
 
+
 #### Technical Steps
 1. Open [sample document](/USMC/sample%20data/scenario2_training_data.txt) for the OPORD.
-2. Attach the sample data file or paste sample training data (e.g., event list) into Copilot Chat.
+2. Upload the sample data file or paste sample training data (e.g., event list) into Copilot Chat.
 3. Input progressive prompts, refining based on outputs.
 4. Optional: Copy recommendations and structure into a new Word document.
 5. Edit for final formatting, demonstrating reasoning application.
@@ -324,9 +336,10 @@ As an S-4 logistician at Quantico, analyze this CMR data: Detect patterns in sho
 - Final refinements: Adds brief context.
 - Complete output example: Insights plus chart descriptions.
 
+
 #### Technical Steps
 1. Open Excel with [sample maintenance dataset](/USMC/sample%20data/scenario3_equipment_readiness.xlsx) and review the data.
-2. Drag and drop the sample dataset or copy data range and paste into Copilot Chat.
+2. Upload the sample dataset or copy data range and paste into Copilot Chat.
 3. Use progressive prompts to generate insights.
 4. Copy suggestions back to Excel to create charts.
 5. Verify patterns match data.
@@ -403,11 +416,12 @@ As an S-6 admin at Camp Lejeune, design a Power Automate flow for help desk: Tri
 - Final refinements: Adds compliance.
 - Complete output example: Full flow description.
 
+
 #### Technical Steps
 1. Open Power Automate and start a new flow.
-2. Drag and drop or paste [ticket sample data](/USMC/sample%20data/scenario4_helpdesk_tickets.xlsx) into Copilot Chat.
-3. Use prompts to generate flow logic.
-4. Copy steps to Power Automate and build.
+2. Upload or paste [ticket sample data](/USMC/sample%20data/scenario4_helpdesk_tickets.xlsx) into Copilot Chat.
+3. Use prompts to generate flow logic and step-by-step pseudocode (Copilot does not directly automate Power Automate flows; users must implement logic manually).
+4. Copy Copilot's suggested steps to Power Automate and build the flow.
 5. Test basic automation.
 
 #### Facilitation Notes
@@ -482,10 +496,11 @@ As an S-2 analyst at Camp Pendleton, search this Power BI dashboard data: Retrie
 - Final refinements: Adds priority.
 - Complete output example: Structured summary.
 
+
 #### Technical Steps
 1. Open Power BI with [sample intel dataset](/USMC/sample%20data/scenario5_intelligence_data.xlsx).
-2. Copy dashboard metrics or visuals description into Copilot Chat.
-3. Use prompts to extract data.
+2. Copy dashboard metrics or visual descriptions into Copilot Chat (Copilot does not directly extract data from Power BI dashboards; users must manually describe or export data).
+3. Use prompts to extract and organize data.
 4. Copy organized output back to Power BI notes or report.
 5. Verify extraction accuracy.
 
@@ -561,9 +576,10 @@ As an S-1 manager at Quantico, summarize promotion board notes: Incorporate MARA
 - Final refinements: Adds references.
 - Complete output example: Adapted summary and messages.
 
+
 #### Technical Steps
 1. Open the [sample meeting transcript](/USMC/sample%20data/scenario6_meeting_transcript.txt) and review.
-2. Copy or attach sample meeting transcript into Copilot Chat.
+2. Copy or upload sample meeting transcript into Copilot Chat.
 3. Apply progressive prompts for refinements.
 4. Paste personalized output back to Teams chat or agenda.
 5. Check context alignment.
@@ -633,12 +649,16 @@ As an S-1 manager at Quantico, summarize promotion board notes: Incorporate MARA
 - Q: Why no web search? A: DoD environment restricts grounding.
 - Q: How to handle vague outputs? A: Iterate prompts with more details.
 
+
 ### Troubleshooting Common Issues
 - Copy/paste fails: Check windows focus.
+- File upload fails: Use copy/paste as fallback.
 - Generic outputs: Add USMC context.
-- App access: Verify licenses.
+- App access: Verify licenses (Microsoft 365 E5 + Copilot add-on).
+
 
 ### Additional Learning Resources
 - [Microsoft Learn: Copilot Fundamentals](https://learn.microsoft.com/en-us/microsoft-copilot/)
 - [Microsoft Learn: Prompt Engineering](https://learn.microsoft.com/en-us/training/modules/engineer-copilot-prompts/)
+- [Microsoft Learn: Copilot for DoD and Government Cloud](https://learn.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/microsoft-365-copilot#feature-availability)
 - USMC-specific: Internal MCTIMS modules on M365 (if available).
