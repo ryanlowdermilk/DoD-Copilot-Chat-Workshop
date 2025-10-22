@@ -1,11 +1,11 @@
 ﻿Ticket_ID,Date_Submitted,Submitter_Rank,Submitter_Name,Unit,Issue_Type,Priority,Description,Status,Assigned_Tech,Resolution_Time_Hours,Date_Resolved
-2028-0892,3/12/2028,LCpl,Martinez,Alpha Company,SIPR Access,High,Unable to access SIPR workstation - authentication failing after password reset,In Progress,SSgt Johnson,18,
-2028-0893,3/13/2028,Cpl,Thompson,Bravo Company,NIPR Connectivity,Medium,Intermittent network drops on NIPR - affecting email and SharePoint access,Resolved,SGT Davis,4,3/13/2028
-2028-0894,3/14/2028,SSgt,Rodriguez,HQ Company,Phone System,Low,Desk phone not receiving incoming calls - can make outbound calls normally,Open,Cpl Kim,0,
-2028-0895,3/15/2028,PFC,Williams,Charlie Company,Computer Hardware,High,Desktop computer will not boot - critical for daily operations and reports,Escalated,SSgt Johnson,24,
-2028-0896,3/15/2028,GySgt,Brown,Weapons Company,SIPR Access,High,SIPR token not recognized by system - urgent for classified briefing prep,In Progress,SSgt Anderson,12,
-2028-0897,3/16/2028,LCpl,Davis,Alpha Company,Software Issue,Medium,Microsoft Outlook crashing when opening large attachments over 10MB,Open,Cpl Kim,0,
-2028-0898,3/17/2028,Cpl,Garcia,Bravo Company,Printer Issue,Low,Color printer producing faded output - black and white printing works fine,Resolved,SGT Davis,2,3/17/2028
-2028-0899,3/18/2028,1stLt,Wilson,HQ Company,NIPR Connectivity,Medium,Cannot access shared drives on NIPR - affecting document collaboration,In Progress,SSgt Anderson,6,
-2028-0900,3/19/2028,PFC,Lee,Charlie Company,Password Reset,Low,Forgot NIPR password - needs reset for training schedule access,Resolved,Cpl Kim,1,3/19/2028
-2028-0901,3/20/2028,Capt,Taylor,S-6 Section,VPN Access,High,VPN connection failing for remote work - needed for emergency response coordination,Open,SSgt Johnson,0,
+2028-0892,3/12/2028,SN,Martinez,Station Boston,Classified Access,High,Unable to access classified workstation - authentication failing after password reset,In Progress,IT1 Johnson,18,
+2028-0893,3/13/2028,PO3,Thompson,Station Gloucester,NIPR Connectivity,Medium,Intermittent network drops on NIPR - affecting email and SharePoint access,Resolved,IT2 Davis,4,3/13/2028
+2028-0894,3/14/2028,PO2,Rodriguez,Sector Ops,Phone System,Low,Desk phone not receiving incoming calls - can make outbound calls normally,Open,PO3 Kim,0,
+2028-0895,3/15/2028,SN,Williams,Station Cape Cod,Computer Hardware,High,Desktop computer will not boot - critical for daily operations and reports,Escalated,IT1 Johnson,24,
+2028-0896,3/15/2028,CPO,Brown,Cutter Escanaba,Classified Access,High,Classified token not recognized by system - urgent for operational briefing prep,In Progress,IT1 Anderson,12,
+2028-0897,3/16/2028,SN,Davis,Station Boston,Software Issue,Medium,Microsoft Outlook crashing when opening large attachments over 10MB,Open,PO3 Kim,0,
+2028-0898,3/17/2028,PO3,Garcia,Station Gloucester,Printer Issue,Low,Color printer producing faded output - black and white printing works fine,Resolved,IT2 Davis,2,3/17/2028
+2028-0899,3/18/2028,ENS,Wilson,Sector Ops,NIPR Connectivity,Medium,Cannot access shared drives on NIPR - affecting document collaboration,In Progress,IT1 Anderson,6,
+2028-0900,3/19/2028,SN,Lee,Station Cape Cod,Password Reset,Low,Forgot NIPR password - needs reset for training schedule access,Resolved,PO3 Kim,1,3/19/2028
+2028-0901,3/20/2028,LT,Taylor,IT Division,VPN Access,High,VPN connection failing for remote work - needed for emergency response coordination,Open,IT1 Johnson,0,

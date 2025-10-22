@@ -3,102 +3,102 @@ FICTIONAL TRAINING DATA - NOT FOR OPERATIONAL USE
 
 === EMAIL THREAD: QUARTERLY AWARD NOMINATIONS ===
 
-From: SSgt Rodriguez, Maria A. <maria.rodriguez@usmc.mil>
-To: LCpl Johnson, Kevin M. <kevin.johnson@usmc.mil>; Cpl Stevens, Ashley L. <ashley.stevens@usmc.mil>
-CC: Capt Williams, Robert J. <robert.williams@usmc.mil>
+From: CPO Rodriguez, Maria A. <maria.a.rodriguez@uscg.mil>
+To: SN Johnson, Kevin M. <kevin.m.johnson@uscg.mil>; PO3 Stevens, Ashley L. <ashley.l.stevens@uscg.mil>
+CC: LT Williams, Robert J. <robert.j.williams@uscg.mil>
 Date: Monday, March 15, 2028 0945
 Subject: Q2 FY28 Quarterly Award Nominations - Action Required
 
-Marines,
+Team,
 
-Per MCO 1650.27B, Q2 FY28 quarterly award nominations are due to S-1 by Friday, 22 March 2028, 1600. Each company may submit one Marine of the Quarter and one NCO of the Quarter nomination.
+Per Coast Guard Awards Manual COMDTINST M1650.25, Q2 FY28 quarterly award nominations are due to Administration by Friday, 22 March 2028, 1600. Each unit may submit one Coast Guardsman of the Quarter and one Petty Officer of the Quarter nomination.
 
 Required documents:
-- Completed NAVMC 11296 (Award Recommendation Form)
-- Supporting documentation (FITREPs, page 11 entries, training records)
-- Unit endorsement from Company Commander
+- Completed CG-3307 (Award Nomination Form)
+- Supporting documentation (Evaluations, training records, commendations)
+- Unit endorsement from Unit Commander
 
-LCpl Johnson - You're responsible for collecting nominations from Alpha and Bravo Companies.
-Cpl Stevens - Handle Charlie and Weapons Company submissions.
+SN Johnson - You're responsible for collecting nominations from Station Boston and Station Gloucester.
+PO3 Stevens - Handle Cutter Escanaba and Sector Operations submissions.
 
-Timeline is tight due to the upcoming Battalion formation on 29 March. Any questions, contact me immediately.
+Timeline is tight due to the upcoming Sector formation on 29 March. Any questions, contact me immediately.
 
-Semper Fi,
-SSgt Rodriguez
-S-1 Administration Chief
-2nd Battalion, 8th Marines
-Camp Lejeune, NC
+Semper Paratus,
+CPO Rodriguez
+Administration Chief
+Sector Boston
+Boston, MA
 
 ---
 
-From: LCpl Johnson, Kevin M. <kevin.johnson@usmc.mil>
-To: SSgt Rodriguez, Maria A. <maria.rodriguez@usmc.mil>
-CC: Cpl Stevens, Ashley L. <ashley.stevens@usmc.mil>
+From: SN Johnson, Kevin M. <kevin.m.johnson@uscg.mil>
+To: CPO Rodriguez, Maria A. <maria.a.rodriguez@uscg.mil>
+CC: PO3 Stevens, Ashley L. <ashley.l.stevens@uscg.mil>
 Date: Tuesday, March 16, 2028 1330
-Subject: RE: Q2 FY28 Quarterly Award Nominations - Alpha Company Issue
+Subject: RE: Q2 FY28 Quarterly Award Nominations - Station Boston Issue
 
-SSgt Rodriguez,
+Chief Rodriguez,
 
-Alpha Company's CO, Capt Martinez, is requesting an extension until Monday, 25 March due to field training exercise completion delays. Their Marines just returned from the field yesterday and need time to compile documentation.
+Station Boston's OIC, LCDR Martinez, is requesting an extension until Monday, 25 March due to SAR operations completion delays. Their crews just returned from extended patrol yesterday and need time to compile documentation.
 
-Additionally, Bravo Company has submitted two NCO nominations instead of one - both GySgt Thompson and SSgt Garcia. Both have exceptional records from the recent deployment. Should we ask them to select one or can we process both?
+Additionally, Station Gloucester has submitted two Petty Officer nominations instead of one - both PO1 Thompson and PO2 Garcia. Both have exceptional records from the recent hurricane response. Should we ask them to select one or can we process both?
 
-Also need clarification on the Marine of the Quarter age limit - one nominee is 19 years old, just checking if there are any restrictions.
+Also need clarification on the Coast Guardsman of the Quarter age limit - one nominee is 19 years old, just checking if there are any restrictions.
 
 V/R,
-LCpl Johnson
+SN Johnson
 
 ---
 
-From: Capt Williams, Robert J. <robert.williams@usmc.mil>
-To: SSgt Rodriguez, Maria A. <maria.rodriguez@usmc.mil>; LCpl Johnson, Kevin M. <kevin.johnson@usmc.mil>; Cpl Stevens, Ashley L. <ashley.stevens@usmc.mil>
+From: LT Williams, Robert J. <robert.j.williams@uscg.mil>
+To: CPO Rodriguez, Maria A. <maria.a.rodriguez@uscg.mil>; SN Johnson, Kevin M. <kevin.m.johnson@uscg.mil>; PO3 Stevens, Ashley L. <ashley.l.stevens@uscg.mil>
 Date: Wednesday, March 17, 2028 0800
 Subject: RE: Q2 FY28 Quarterly Award Nominations - Command Guidance
 
-S-1 Team,
+Admin Team,
 
-After discussing with Battalion Commander:
+After discussing with Sector Commander:
 
-1. Alpha Company extension APPROVED until COB 25 March - field ops take priority
-2. Bravo Company must select ONE NCO nomination per regulations
-3. No age restrictions for Marine of the Quarter - 19 is acceptable
-4. Add requirement: All nominations must include PT scores from last PFT/CFT
+1. Station Boston extension APPROVED until COB 25 March - SAR ops take priority
+2. Station Gloucester must select ONE Petty Officer nomination per regulations
+3. No age restrictions for Coast Guardsman of the Quarter - 19 is acceptable
+4. Add requirement: All nominations must include scores from last PFT
 
-SSgt Rodriguez - ensure all companies are aware of the PT score requirement immediately. This will affect the scoring matrix.
+Chief Rodriguez - ensure all units are aware of the PFT score requirement immediately. This will affect the scoring matrix.
 
-Also, Regiment wants digital submissions only this quarter - no hard copies to be processed.
+Also, District wants digital submissions only this quarter - no hard copies to be processed.
 
 BZ on staying ahead of this timeline.
 
-Capt Williams
-S-1 Officer
-2nd Battalion, 8th Marines
+LT Williams
+Administration Officer
+Sector Boston
 
 ---
 
-From: Cpl Stevens, Ashley L. <ashley.stevens@usmc.mil>
-To: SSgt Rodriguez, Maria A. <maria.rodriguez@usmc.mil>; LCpl Johnson, Kevin M. <kevin.johnson@usmc.mil>
-CC: Capt Williams, Robert J. <robert.williams@usmc.mil>
+From: PO3 Stevens, Ashley L. <ashley.l.stevens@uscg.mil>
+To: CPO Rodriguez, Maria A. <maria.a.rodriguez@uscg.mil>; SN Johnson, Kevin M. <kevin.m.johnson@uscg.mil>
+CC: LT Williams, Robert J. <robert.j.williams@uscg.mil>
 Date: Wednesday, March 17, 2028 1545
-Subject: RE: Q2 FY28 Quarterly Award Nominations - Charlie Company Update
+Subject: RE: Q2 FY28 Quarterly Award Nominations - Cutter Escanaba Update
 
 Team,
 
-Charlie Company submissions received and reviewed:
-- Marine of the Quarter: LCpl Davis, Anthony (300 PFT/295 CFT, expert rifle)
-- NCO of the Quarter: Cpl Ramirez, Sofia (290 PFT/285 CFT, squad leader, completed college courses)
+Cutter Escanaba submissions received and reviewed:
+- Coast Guardsman of the Quarter: SN Davis, Anthony (excellent PFT, expert marksman)
+- Petty Officer of the Quarter: PO2 Ramirez, Sofia (outstanding PFT, boat coxswain, completed college courses)
 
-Weapons Company is having issues with their digital submission system. Tech support ticket #2028-0847 submitted to S-6. They may need the hard copy exception.
+Sector Operations is having issues with their digital submission system. Tech support ticket #2028-0847 submitted to IT. They may need the hard copy exception.
 
 Question: Should we start preparing the award ceremony presentation slides now, or wait until selections are finalized?
 
 Current status:
-- Alpha Company: Extension until 25 March
-- Bravo Company: Pending single NCO selection
-- Charlie Company: Complete
-- Weapons Company: Technical issues, pending
+- Station Boston: Extension until 25 March
+- Station Gloucester: Pending single PO selection
+- Cutter Escanaba: Complete
+- Sector Operations: Technical issues, pending
 
 V/R,
-Cpl Stevens
+PO3 Stevens
 
 CLASSIFICATION: UNCLASSIFIED

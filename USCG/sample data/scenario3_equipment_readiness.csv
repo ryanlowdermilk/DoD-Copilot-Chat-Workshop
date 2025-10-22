@@ -1,26 +1,26 @@
 ﻿Equipment_ID,Equipment_Type,Model,Category,Status,Readiness_Percentage,Current_Issue,Last_Maintenance,Next_Maintenance,Assigned_Unit,Location,Hours_Since_Maintenance,Maintenance_Cost_Last,Priority
-Q1000,HMMWV,M1152A1,Vehicle,Operational,92,None,2028-03-02,2028-05-18,Bravo Company,Field Storage,36,4967,High
-Q1001,FMTV,M1083A1,Vehicle,Operational,91,None,2028-03-15,2028-04-16,Bravo Company,Comm Center,16,2128,Low
-Q1002,FMTV,M1078A1,Vehicle,Operational,93,None,2028-03-15,2028-04-28,Alpha Company,Motor Pool B,118,3287,Medium
-Q1003,HMMWV,M1165A1,Vehicle,Operational,87,None,2028-03-08,2028-05-25,Weapons Company,Motor Pool A,101,3317,Low
-Q1004,MTVR,MK27,Vehicle,Operational,88,None,2028-03-03,2028-05-18,Weapons Company,Motor Pool A,85,3462,Low
-Q1005,MTVR,MK25,Vehicle,Operational,94,None,2028-03-04,2028-04-05,Alpha Company,Motor Pool B,35,3613,Medium
-Q1006,M1A1,Abrams,Vehicle,Operational,91,None,2028-03-13,2028-04-22,Charlie Company,Field Storage,28,1901,Low
-Q1007,MTVR,MK25,Vehicle,Operational,92,None,2028-03-07,2028-05-05,Charlie Company,Motor Pool A,68,762,Medium
-Q1008,LAV-25,LAV-25A2,Vehicle,Operational,95,None,2028-03-10,2028-04-13,Bravo Company,Field Storage,137,3741,Low
-Q1009,M1A1,Abrams,Vehicle,Operational,93,None,2028-03-06,2028-04-21,HQ Company,Armory 2,112,3465,High
-Q1010,HMMWV,M1165A1,Vehicle,Operational,86,None,2028-03-18,2028-05-18,Alpha Company,Motor Pool B,50,3958,Low
-Q1011,HMMWV,M1152A1,Vehicle,Operational,99,None,2028-03-14,2028-05-07,HQ Company,Armory 1,12,1438,Low
-Q1012,M2,.50 Cal,Weapon,Operational,88,None,2028-03-10,2028-05-28,Charlie Company,Armory 2,50,4216,High
-Q1013,MK19,Grenade Launcher,Weapon,Operational,88,None,2028-03-10,2028-05-11,Charlie Company,Field Storage,139,2129,High
-Q1014,M249,SAW,Weapon,Limited Use,76,Minor maintenance required,2028-03-07,2028-05-10,HQ Company,Armory 1,135,659,High
-Q1015,M249,SAW,Weapon,Operational,87,None,2028-03-11,2028-04-25,Alpha Company,Field Storage,134,1066,Low
-Q1016,M16A4,Rifle,Weapon,Operational,90,None,2028-03-06,2028-05-17,Charlie Company,Comm Center,118,2235,Low
-Q1017,MK19,Grenade Launcher,Weapon,Operational,96,None,2028-03-08,2028-05-22,Weapons Company,Comm Center,125,1491,High
-Q1018,M16A4,Rifle,Weapon,Operational,92,None,2028-03-04,2028-04-24,HQ Company,Motor Pool B,11,1081,Low
-Q1019,MK19,Grenade Launcher,Weapon,Operational,86,None,2028-03-03,2028-04-16,Charlie Company,Motor Pool A,141,2449,Medium
-Q1020,AN/PSC-5,SATCOM,Communications,Operational,100,None,2028-03-08,2028-05-11,Bravo Company,Armory 2,114,2059,High
-Q1021,AN/PRC-117G,Radio,Communications,Operational,99,None,2028-03-15,2028-05-06,Alpha Company,Field Storage,35,996,Medium
-Q1022,AN/VRC-103,Vehicular,Communications,Operational,99,None,2028-03-05,2028-04-19,Bravo Company,Armory 2,56,2781,Medium
-Q1023,AN/PRC-152,Handheld,Communications,Operational,88,None,2028-03-04,2028-05-01,Alpha Company,Field Storage,148,620,High
-Q1024,AN/PRC-152,Handheld,Communications,Operational,91,None,2028-03-07,2028-05-02,Weapons Company,Motor Pool A,52,3604,High
+CC1000,45-RB-M,Response Boat,Vessel,Operational,92,None,2028-03-02,2028-05-18,Station Boston,Boat Bay 1,36,8967,High
+CC1001,47-MLB,Motor Lifeboat,Vessel,Operational,91,None,2028-03-15,2028-04-16,Station Gloucester,Boat Bay 2,16,6128,Low
+CC1002,29-RB-S,Response Boat,Vessel,Operational,93,None,2028-03-15,2028-04-28,Station Boston,Boat Bay 1,118,5287,Medium
+CC1003,87-WPB,Patrol Boat,Vessel,Operational,87,None,2028-03-08,2028-05-25,Station Cape Cod,Pier 3,101,12317,Low
+CC1004,110-WPB,Patrol Boat,Vessel,Operational,88,None,2028-03-03,2028-05-18,Cutter Escanaba,Pier 1,85,15462,Low
+CC1005,25-RB-S,Response Boat,Vessel,Operational,94,None,2028-03-04,2028-04-05,Station Boston,Boat Bay 3,35,4613,Medium
+CC1006,270-FRC,Fast Response Cutter,Vessel,Operational,91,None,2028-03-13,2028-04-22,Cutter Terrell,Pier 2,28,25901,Low
+CC1007,47-MLB,Motor Lifeboat,Vessel,Operational,92,None,2028-03-07,2028-05-05,Station Gloucester,Boat Bay 1,68,7762,Medium
+CC1008,45-RB-M,Response Boat,Vessel,Operational,95,None,2028-03-10,2028-04-13,Station Cape Cod,Boat Bay 2,137,9741,Low
+CC1009,87-WPB,Patrol Boat,Vessel,Operational,93,None,2028-03-06,2028-04-21,Sector Ops,Pier 4,112,13465,High
+CC1010,29-RB-S,Response Boat,Vessel,Operational,86,None,2028-03-18,2028-05-18,Station Boston,Boat Bay 2,50,5958,Low
+CC1011,25-RB-S,Response Boat,Vessel,Operational,99,None,2028-03-14,2028-05-07,Sector Ops,Boat Bay 4,12,3438,Low
+CC1012,M240,Machine Gun,Weapon,Operational,88,None,2028-03-10,2028-05-28,Cutter Terrell,Armory 1,50,2216,High
+CC1013,M14,Rifle,Weapon,Operational,88,None,2028-03-10,2028-05-11,Cutter Escanaba,Armory 2,139,1129,High
+CC1014,M9,Pistol,Weapon,Limited Use,76,Minor maintenance required,2028-03-07,2028-05-10,Station Boston,Armory 1,135,659,High
+CC1015,M4,Carbine,Weapon,Operational,87,None,2028-03-11,2028-04-25,Station Gloucester,Armory 3,134,1066,Low
+CC1016,M870,Shotgun,Weapon,Operational,90,None,2028-03-06,2028-05-17,Station Cape Cod,Armory 2,118,835,Low
+CC1017,M240,Machine Gun,Weapon,Operational,96,None,2028-03-08,2028-05-22,Cutter Terrell,Armory 1,125,2491,High
+CC1018,M4,Carbine,Weapon,Operational,92,None,2028-03-04,2028-04-24,Sector Ops,Armory 4,11,1081,Low
+CC1019,M870,Shotgun,Weapon,Operational,86,None,2028-03-03,2028-04-16,Station Boston,Armory 1,141,949,Medium
+CC1020,AN/PRC-161,Handheld Radio,Communications,Operational,100,None,2028-03-08,2028-05-11,Station Boston,Comm Room,114,1059,High
+CC1021,AN/PRC-161,Handheld Radio,Communications,Operational,99,None,2028-03-15,2028-05-06,Station Gloucester,Comm Room,35,996,Medium
+CC1022,AN/VRC-110,Vehicular Radio,Communications,Operational,99,None,2028-03-05,2028-04-19,Cutter Escanaba,Bridge,56,2781,Medium
+CC1023,AN/PRC-161,Handheld Radio,Communications,Operational,88,None,2028-03-04,2028-05-01,Station Cape Cod,Comm Room,148,620,High
+CC1024,VHF-FM,Marine Radio,Communications,Operational,91,None,2028-03-07,2028-05-02,Cutter Terrell,Bridge,52,1604,High

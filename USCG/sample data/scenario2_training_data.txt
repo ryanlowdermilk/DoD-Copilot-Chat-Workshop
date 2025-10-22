@@ -1,105 +1,105 @@
 CLASSIFICATION: UNCLASSIFIED
 FICTIONAL TRAINING DATA - NOT FOR OPERATIONAL USE
 
-=== BATTALION TRAINING SCHEDULE DATA ===
-1st Battalion, 5th Marines - Camp Pendleton
+=== SECTOR TRAINING SCHEDULE DATA ===
+Sector San Diego - Coast Guard
 Training Period: April 2028
 
 CURRENT TRAINING EVENTS REQUIRING SCHEDULING:
 
-1. RIFLE RANGE QUALIFICATION
-   - Personnel: 450 Marines (Alpha, Bravo, Charlie Companies)
-   - Duration: 3 days per company
-   - Requirements: Range 107, 108, or 210
+1. BOAT CREW QUALIFICATION
+   - Personnel: 85 Coast Guardsmen (Station San Diego, Station Coronado, Cutter Terrell)
+   - Duration: 5 days per crew
+   - Requirements: 45' Response Boat - Medium, 87' Patrol Boat
    - Preferred dates: 5-15 April 2028
-   - Support needed: Transportation (6 buses), Range safety officers (12)
+   - Support needed: Coxswains (6), Engineering support (4)
 
 2. PHYSICAL FITNESS TEST (PFT)
-   - Personnel: All battalion (520 Marines)
-   - Duration: 1 day per company
-   - Requirements: Track facility, pull-up bars
+   - Personnel: All sector (280 Coast Guardsmen)
+   - Duration: 1 day per unit
+   - Requirements: Track facility, fitness equipment
    - Preferred dates: 8-12 April 2028
-   - Support needed: Corpsmen (4), scoring sheets
+   - Support needed: Medical personnel (3), scoring officials
 
-3. COMBAT FITNESS TEST (CFT)
-   - Personnel: All battalion (520 Marines)
-   - Duration: 1 day per company
-   - Requirements: Field training area, equipment
+3. WEAPONS QUALIFICATION
+   - Personnel: All law enforcement qualified (125 Coast Guardsmen)
+   - Duration: 2 days per unit
+   - Requirements: Pistol range, rifle range, shotgun range
    - Preferred dates: 15-19 April 2028
-   - Support needed: Ammo cans (40), first aid supplies
+   - Support needed: Range safety officers (8), ammunition
 
-4. FIELD TRAINING EXERCISE (FTX)
-   - Personnel: Alpha and Charlie Companies (300 Marines)
-   - Duration: 5 days
-   - Requirements: Training Area 52 or 71
-   - Preferred dates: 22-26 April 2028
-   - Support needed: MREs (1500), water (5000 gallons)
+4. SEARCH AND RESCUE DRILL
+   - Personnel: Station San Diego and Station Coronado (95 Coast Guardsmen)
+   - Duration: 3 days
+   - Requirements: Response boats, simulated scenarios
+   - Preferred dates: 22-24 April 2028
+   - Support needed: Safety vessels (2), medical support (4)
 
-5. MOTOR TRANSPORT TRAINING
-   - Personnel: 85 Marines (MT section + drivers)
+5. LAW ENFORCEMENT BOARDING TRAINING
+   - Personnel: 45 Maritime Enforcement Specialists
    - Duration: 2 days
-   - Requirements: Motor pool, driving course
+   - Requirements: Cutter Terrell, training scenarios
    - Preferred dates: 10-11 April 2028
-   - Support needed: Fuel (500 gallons), mechanics (3)
+   - Support needed: Role players (10), safety officers (4)
 
 6. COMMUNICATIONS EXERCISE
-   - Personnel: 65 Marines (S-6 section + radio operators)
+   - Personnel: 35 Coast Guardsmen (IT and Operations Specialists)
    - Duration: 1 day
-   - Requirements: High ground location, radio equipment
+   - Requirements: Command Center, radio equipment
    - Preferred dates: 18 April 2028
-   - Support needed: Generators (4), crypto materials
+   - Support needed: Technical support (3), backup systems
 
 RESOURCE CONSTRAINTS:
 
-Range Availability:
-- Range 107: Maintenance 8-10 April
-- Range 108: Available all month
-- Range 210: Booked by 3rd Battalion 12-16 April
+Vessel Availability:
+- 45' RB-M: Maintenance 8-10 April
+- 87' Patrol Boat: Available all month
+- Cutter Terrell: Booked for patrol 12-16 April
 
 Transportation:
-- Only 4 buses available 8-12 April (2 in maintenance)
+- Only 2 buses available 8-12 April (1 in maintenance)
 - Full fleet available 15+ April
 
-Training Areas:
-- TA-52: Available except 25-30 April (engineer training)
-- TA-71: Available all month
+Training Facilities:
+- Pistol Range: Available except 25-30 April (civilian contract training)
+- Track Facility: Available all month
 
 Personnel Conflicts:
-- 45 Marines on leave 20-30 April
-- Weapons Company deploying 28 April (training must complete by 26 April)
-- Company Commanders' conference 17 April (training suspended)
+- 25 Coast Guardsmen on leave 20-30 April
+- Cutter Terrell deploying 28 April (training must complete by 26 April)
+- Sector Commanders' conference 17 April (training suspended)
 
 Support Staff Availability:
-- Range safety officers: Limited to 8 personnel 5-12 April
-- Corpsmen: Full availability except 23-24 April (medical training)
+- Range safety officers: Limited to 5 personnel 5-12 April
+- Medical personnel: Full availability except 23-24 April (medical training)
 - Transportation section: Reduced capacity 8-12 April
 
 Weather Considerations:
-- Rain forecast 13-15 April (affects outdoor training)
-- High winds expected 24-25 April (impacts helicopter support for FTX)
+- High surf forecast 13-15 April (affects boat operations)
+- High winds expected 24-25 April (impacts small boat training)
 
-PRIORITY MATRIX (per Battalion Commander guidance):
-1. Rifle qualification (mandatory for deployment readiness)
-2. PFT/CFT (required for quarterly reports)
-3. FTX (critical for unit cohesion)
-4. Motor transport (supports all operations)
-5. Communications (enhances mission capability)
+PRIORITY MATRIX (per Sector Commander guidance):
+1. Boat crew qualification (mandatory for SAR readiness)
+2. Weapons qualification (required for law enforcement operations)
+3. PFT (required for quarterly reports)
+4. SAR drill (critical for mission capability)
+5. Law enforcement training (enhances mission readiness)
 
 ADDITIONAL CONSIDERATIONS:
-- Easter weekend 13-14 April (skeleton crew only)
+- Easter weekend 13-14 April (minimal crew only)
 - Base cleanup day 19 April (all hands required)
-- Inspector General visit 29-30 April (all training suspended)
+- District inspection 29-30 April (all training suspended)
 
 CURRENT CONFLICTS IDENTIFIED:
-- Rifle range and PFT both need transportation same week
-- FTX dates conflict with personnel on leave
-- Range maintenance overlaps with qualification schedule
-- Company Commanders' conference affects leadership availability
+- Boat qualification and PFT both need transportation same week
+- SAR drill dates conflict with personnel on leave
+- Vessel maintenance overlaps with qualification schedule
+- Sector Commanders' conference affects leadership availability
 
 RECOMMENDED MITIGATION STRATEGIES NEEDED:
-- Adjust transportation schedule to support both rifle and PFT
-- Coordinate with leave section for FTX personnel availability
-- Identify alternate ranges for qualification
+- Adjust transportation schedule to support both boat and PFT training
+- Coordinate with leave section for SAR drill personnel availability
+- Identify alternate vessels for qualification
 - Develop contingency plans for weather delays
 
 CLASSIFICATION: UNCLASSIFIED
