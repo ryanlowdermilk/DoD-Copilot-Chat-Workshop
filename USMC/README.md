@@ -130,7 +130,7 @@ Some talking points that will most likely be discussed:
 
 In the end, the conversation should lead to this:  
 ```
-No matter your viewpoint on AI, our enemies are using it.  If we don't want to bring bows and arrows to the next battle, then we need to use AI as well.  This session is designed to give you ahnds-on experience into six AI functions and hopefully some insight how you can use AI in your day-to-day work.
+No matter your viewpoint on AI, our enemies are using it.  If we don't want to bring bows and arrows to the next battle, then we need to use AI as well.  This session is designed to give you hands-on experience into six AI functions and hopefully some insight how you can use AI in your day-to-day work.
 ```
 Let's dive right in...
 
