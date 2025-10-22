@@ -1,0 +1,26 @@
+﻿Equipment_ID,Equipment_Type,Model,Category,Status,Readiness_Percentage,Current_Issue,Last_Maintenance,Next_Maintenance,Assigned_Unit,Location,Hours_Since_Maintenance,Maintenance_Cost_Last,Priority
+Q1000,HMMWV,M1152A1,Vehicle,Operational,92,None,2028-03-02,2028-05-18,Bravo Company,Field Storage,36,4967,High
+Q1001,FMTV,M1083A1,Vehicle,Operational,91,None,2028-03-15,2028-04-16,Bravo Company,Comm Center,16,2128,Low
+Q1002,FMTV,M1078A1,Vehicle,Operational,93,None,2028-03-15,2028-04-28,Alpha Company,Motor Pool B,118,3287,Medium
+Q1003,HMMWV,M1165A1,Vehicle,Operational,87,None,2028-03-08,2028-05-25,Weapons Company,Motor Pool A,101,3317,Low
+Q1004,MTVR,MK27,Vehicle,Operational,88,None,2028-03-03,2028-05-18,Weapons Company,Motor Pool A,85,3462,Low
+Q1005,MTVR,MK25,Vehicle,Operational,94,None,2028-03-04,2028-04-05,Alpha Company,Motor Pool B,35,3613,Medium
+Q1006,M1A1,Abrams,Vehicle,Operational,91,None,2028-03-13,2028-04-22,Charlie Company,Field Storage,28,1901,Low
+Q1007,MTVR,MK25,Vehicle,Operational,92,None,2028-03-07,2028-05-05,Charlie Company,Motor Pool A,68,762,Medium
+Q1008,LAV-25,LAV-25A2,Vehicle,Operational,95,None,2028-03-10,2028-04-13,Bravo Company,Field Storage,137,3741,Low
+Q1009,M1A1,Abrams,Vehicle,Operational,93,None,2028-03-06,2028-04-21,HQ Company,Armory 2,112,3465,High
+Q1010,HMMWV,M1165A1,Vehicle,Operational,86,None,2028-03-18,2028-05-18,Alpha Company,Motor Pool B,50,3958,Low
+Q1011,HMMWV,M1152A1,Vehicle,Operational,99,None,2028-03-14,2028-05-07,HQ Company,Armory 1,12,1438,Low
+Q1012,M2,.50 Cal,Weapon,Operational,88,None,2028-03-10,2028-05-28,Charlie Company,Armory 2,50,4216,High
+Q1013,MK19,Grenade Launcher,Weapon,Operational,88,None,2028-03-10,2028-05-11,Charlie Company,Field Storage,139,2129,High
+Q1014,M249,SAW,Weapon,Limited Use,76,Minor maintenance required,2028-03-07,2028-05-10,HQ Company,Armory 1,135,659,High
+Q1015,M249,SAW,Weapon,Operational,87,None,2028-03-11,2028-04-25,Alpha Company,Field Storage,134,1066,Low
+Q1016,M16A4,Rifle,Weapon,Operational,90,None,2028-03-06,2028-05-17,Charlie Company,Comm Center,118,2235,Low
+Q1017,MK19,Grenade Launcher,Weapon,Operational,96,None,2028-03-08,2028-05-22,Weapons Company,Comm Center,125,1491,High
+Q1018,M16A4,Rifle,Weapon,Operational,92,None,2028-03-04,2028-04-24,HQ Company,Motor Pool B,11,1081,Low
+Q1019,MK19,Grenade Launcher,Weapon,Operational,86,None,2028-03-03,2028-04-16,Charlie Company,Motor Pool A,141,2449,Medium
+Q1020,AN/PSC-5,SATCOM,Communications,Operational,100,None,2028-03-08,2028-05-11,Bravo Company,Armory 2,114,2059,High
+Q1021,AN/PRC-117G,Radio,Communications,Operational,99,None,2028-03-15,2028-05-06,Alpha Company,Field Storage,35,996,Medium
+Q1022,AN/VRC-103,Vehicular,Communications,Operational,99,None,2028-03-05,2028-04-19,Bravo Company,Armory 2,56,2781,Medium
+Q1023,AN/PRC-152,Handheld,Communications,Operational,88,None,2028-03-04,2028-05-01,Alpha Company,Field Storage,148,620,High
+Q1024,AN/PRC-152,Handheld,Communications,Operational,91,None,2028-03-07,2028-05-02,Weapons Company,Motor Pool A,52,3604,High

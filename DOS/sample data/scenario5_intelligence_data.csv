@@ -1,0 +1,13 @@
+﻿Report_ID,Date,Time,Source,Indicator_Type,Topic_Area,Severity,Indicator,Details,Status,Analyst,Priority
+OSINT-2028-089,3/18/2028,0845,Open Source,Political,Regional Stability,Medium,Election Interference Indicators,Social media campaigns targeting upcoming Kenyan county elections - coordinated inauthentic behavior detected,Active,Thompson,2
+OSINT-2028-090,3/19/2028,1030,Media Monitoring,Economic,Trade Relations,Low,Investment Announcement,Chinese state enterprise announced $500M infrastructure investment in port facilities,Monitoring,Chen,3
+OSINT-2028-091,3/19/2028,1415,Social Media,Security,Terrorism,High,Extremist Messaging,Increased Al-Shabaab messaging targeting East African diaspora communities on encrypted platforms,Active,Rodriguez,1
+OSINT-2028-092,3/20/2028,0920,Academic Sources,Political,Governance,Medium,Corruption Allegations,University research institute report alleging systemic procurement irregularities in ministry contracts,Investigating,Thompson,2
+OSINT-2028-093,3/21/2028,1145,News Reporting,Security,Regional Conflict,High,Border Incident,Reports of armed clashes on Somalia-Kenya border involving militia groups and security forces,Active,Rodriguez,1
+OSINT-2028-094,3/22/2028,1600,NGO Reporting,Humanitarian,Displacement,Medium,Refugee Movement,UN agency reporting increased refugee flows from South Sudan due to renewed violence,Monitoring,Chen,2
+OSINT-2028-095,3/23/2028,0730,Open Source,Economic,Energy Sector,Low,Oil Discovery,Exploration company announced potential oil field discovery in northern Kenya,Closed,Thompson,3
+OSINT-2028-096,3/24/2028,1320,Media Monitoring,Political,Diplomatic Relations,Medium,Ministerial Visit,Announcement of Russian Foreign Minister planned visit to Nairobi in April,Active,Rodriguez,2
+OSINT-2028-097,3/24/2028,1545,Social Media,Security,Cyber Activity,High,Disinformation Campaign,Coordinated network spreading false information about U.S. programs and activities in East Africa,Active,Chen,1
+OSINT-2028-098,3/25/2028,0915,Think Tank,Economic,Development,Low,Infrastructure Assessment,Regional development bank report on East African infrastructure financing gaps,Monitoring,Thompson,3
+OSINT-2028-099,3/26/2028,1205,News Reporting,Political,Elections,High,Campaign Violence,Reports of politically motivated attacks on opposition campaign events ahead of county elections,Active,Rodriguez,1
+OSINT-2028-100,3/27/2028,1430,Open Source,Security,Maritime Security,Medium,Piracy Indicators,Increased suspicious vessel activity off Somali coast - potential return of maritime piracy,Investigating,Chen,2

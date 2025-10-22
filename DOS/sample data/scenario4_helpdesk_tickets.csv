@@ -1,0 +1,11 @@
+﻿Ticket_ID,Date_Submitted,Submitter_Position,Submitter_Name,Section,Issue_Type,Priority,Description,Status,Assigned_Tech,Resolution_Time_Hours,Date_Resolved
+2028-1145,3/15/2028,Political Officer,Thompson,Political Section,ClassNet Access,High,Unable to access classified system after password expiration - need immediate reset for cable drafting,In Progress,Anderson,14,
+2028-1146,3/16/2028,Consular Associate,Martinez,Consular Section,OpenNet Connectivity,Medium,Intermittent network drops affecting visa application database access and email,Resolved,Kim,3,3/16/2028
+2028-1147,3/17/2028,Management Officer,Chen,Management Section,Phone System,Low,VOIP desk phone not receiving calls from external lines - internal calls work normally,Open,Johnson,0,
+2028-1148,3/18/2028,Public Affairs Assistant,Williams,Public Affairs,Computer Hardware,High,Workstation will not boot - critical for social media monitoring and press release distribution,Escalated,Anderson,22,
+2028-1149,3/18/2028,RSO Investigator,Brown,Regional Security,ClassNet Access,Critical,Smart card reader malfunction preventing access to classified threat reporting system,In Progress,Taylor,10,
+2028-1150,3/19/2028,Economic Officer,Davis,Economic Section,Software Issue,Medium,Microsoft Excel crashing when opening large trade data spreadsheets over 50MB,Open,Kim,0,
+2028-1151,3/20/2028,Admin Assistant,Garcia,Executive Office,Printer Issue,Low,Color printer in Ambassador's suite producing streaked output - black and white printing acceptable,Resolved,Johnson,2,3/20/2028
+2028-1152,3/21/2028,DCM Staff Assistant,Wilson,Executive Office,OpenNet Connectivity,High,Cannot access shared drives on OpenNet - affecting country team meeting preparation,In Progress,Taylor,5,
+2028-1153,3/22/2028,Consular Officer,Lee,Consular Section,Password Reset,Low,Forgot OpenNet password after extended leave - need reset for visa case management system,Resolved,Kim,1,3/22/2028
+2028-1154,3/23/2028,IMO,Taylor,IM Section,VPN Access,Critical,VPN connection failing for remote work during embassy holiday - needed for emergency communications,Open,Anderson,0,

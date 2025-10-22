@@ -1,0 +1,26 @@
+﻿Asset_ID,Asset_Type,Model,Category,Status,Operational_Percentage,Current_Issue,Last_Maintenance,Next_Maintenance,Assigned_Location,Building,Days_Since_Maintenance,Maintenance_Cost_Last,Priority
+TYO-2001,Generator,Kohler 150kW,Facility Systems,Operational,95,None,2028-02-15,2028-05-15,Chancery,Main Building,32,8750,High
+TYO-2002,HVAC Unit,Carrier AquaEdge,Facility Systems,Operational,92,None,2028-03-01,2028-06-01,Consular Section,Building 2,17,12400,High
+TYO-2003,Security Scanner,Rapiscan 620DV,Security Equipment,Operational,98,None,2028-03-10,2028-04-10,Main Entrance,Main Building,8,3200,Critical
+TYO-2004,UPS System,APC Symmetra,IT Infrastructure,Operational,88,Battery replacement needed,2028-02-20,2028-05-20,Server Room,Main Building,27,15600,Critical
+TYO-2005,Vehicle,Toyota Land Cruiser,Motor Pool,Operational,90,None,2028-03-05,2028-06-05,Motor Pool,Garage A,13,2100,Medium
+TYO-2006,Security Camera,Axis P3245-LVE,Security Equipment,Operational,96,None,2028-02-28,2028-05-28,Perimeter,External,19,850,High
+TYO-2007,Elevator,Otis GeN2,Facility Systems,Limited Use,72,Requires modernization,2028-01-15,2028-04-15,Chancery,Main Building,62,18900,High
+TYO-2008,Fire Suppression,Ansul R-102,Safety Systems,Operational,100,None,2028-03-12,2028-09-12,Kitchen,Main Building,6,4500,Critical
+TYO-2009,Vehicle,Chevrolet Suburban,Motor Pool,Operational,94,None,2028-03-08,2028-06-08,Motor Pool,Garage A,10,1850,Medium
+TYO-2010,Conference System,Polycom RealPresence,Communication,Operational,91,None,2028-02-25,2028-05-25,Conference Room A,Main Building,22,2700,Medium
+TYO-2011,Generator,Cummins 200kW,Facility Systems,Operational,89,Fuel pump wear,2028-02-10,2028-05-10,Consular Section,Building 2,37,9200,High
+TYO-2012,Access Control,HID VertX V100,Security Equipment,Operational,97,None,2028-03-14,2028-06-14,All Buildings,Multiple,4,5400,Critical
+TYO-2013,Chiller,Trane CenTraVac,Facility Systems,Operational,85,Efficiency degradation,2028-01-20,2028-04-20,Mechanical Room,Main Building,57,22100,High
+TYO-2014,Printer,Xerox VersaLink,Office Equipment,Operational,93,None,2028-03-11,2028-06-11,Admin Section,Main Building,7,420,Low
+TYO-2015,Shredder,Fellowes 450M,Security Equipment,Operational,88,None,2028-02-18,2028-05-18,Classified Area,Building 3,29,680,Medium
+TYO-2016,Laptop,Dell Latitude 7430,IT Equipment,Operational,95,None,2028-03-07,2028-09-07,Staff Pool,Main Building,11,0,Low
+TYO-2017,Laptop,Dell Latitude 7430,IT Equipment,Limited Use,68,Battery degradation,2028-01-25,2028-07-25,Staff Pool,Main Building,52,0,Medium
+TYO-2018,Server,Dell PowerEdge R750,IT Infrastructure,Operational,99,None,2028-03-15,2028-06-15,Server Room,Main Building,3,0,Critical
+TYO-2019,Network Switch,Cisco Catalyst 9300,IT Infrastructure,Operational,100,None,2028-03-13,2028-06-13,IT Closet,Main Building,5,0,Critical
+TYO-2020,Backup System,Veeam Backup Appliance,IT Infrastructure,Operational,96,None,2028-03-09,2028-06-09,Server Room,Main Building,9,0,Critical
+TYO-2021,Video Conferencing,Cisco Webex Room Kit,Communication,Operational,92,None,2028-03-06,2028-06-06,SCIF,Building 3,12,1800,High
+TYO-2022,Furniture,Steelcase Workstation,Office Equipment,Operational,90,Normal wear,2028-01-10,2028-07-10,Open Office,Main Building,67,450,Low
+TYO-2023,Safe,Chubb Archive Cabinet,Security Equipment,Operational,100,None,2028-02-22,2028-08-22,Classified Storage,Building 3,25,0,High
+TYO-2024,Water Heater,Rheem Commercial,Facility Systems,Operational,87,Sediment buildup,2028-02-12,2028-05-12,Maintenance,Basement,35,1200,Medium
+TYO-2025,Copier,Ricoh IM C6000,Office Equipment,Operational,94,None,2028-03-16,2028-06-16,Copy Room,Main Building,2,320,Low

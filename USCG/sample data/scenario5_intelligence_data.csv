@@ -1,0 +1,13 @@
+﻿Report_ID,Date,Time,Source,Threat_Type,Location,Severity,Indicator,Details,Status,Analyst,Priority
+INTSUM-2028-047,3/14/2028,630,HUMINT,Cyber,Camp Pendleton,Medium,Suspicious Network Activity,Unusual data transfers detected on guest network during weekend hours,Active,Cpl Martinez,2
+INTSUM-2028-048,3/15/2028,1145,SIGINT,Physical,Main Gate,Low,Vehicle Surveillance,Civilian vehicle observed multiple times near main gate - license plate documented,Closed,LCpl Johnson,3
+INTSUM-2028-049,3/15/2028,1500,OSINT,Cyber,Base Housing,High,Social Media Intel,Personnel posting training schedules and locations on social media platforms,Active,SSgt Davis,1
+INTSUM-2028-050,3/16/2028,800,HUMINT,Physical,Training Area 3,Medium,Unauthorized Personnel,Unknown individuals spotted near training area perimeter during live fire exercise,Investigating,Cpl Martinez,2
+INTSUM-2028-051,3/17/2028,1030,TECHINT,Cyber,Communications Center,High,Malware Detection,Suspicious email attachments containing potential malware sent to multiple personnel,Active,SSgt Davis,1
+INTSUM-2028-052,3/18/2028,1400,OSINT,Physical,Off-Base Housing,Low,Surveillance Activity,Reports of unknown vehicles in military housing neighborhoods,Monitoring,LCpl Johnson,3
+INTSUM-2028-053,3/19/2028,915,SIGINT,Cyber,IT Infrastructure,Medium,Network Intrusion Attempt,Multiple failed login attempts on NIPR systems from external IP addresses,Active,Cpl Martinez,2
+INTSUM-2028-054,3/20/2028,1130,HUMINT,Physical,PX Area,Low,Photography Activity,Individuals taking photographs of base facilities and personnel movements,Closed,LCpl Johnson,3
+INTSUM-2028-055,3/20/2028,1600,OSINT,Cyber,Social Media,High,Information Gathering,Foreign social media accounts attempting to friend multiple base personnel,Active,SSgt Davis,1
+INTSUM-2028-056,3/21/2028,745,TECHINT,Physical,Motor Pool,Medium,Equipment Interest,Questions about military vehicle capabilities from civilian contractors,Investigating,Cpl Martinez,2
+INTSUM-2028-057,3/22/2028,1200,SIGINT,Cyber,Base Network,High,Data Exfiltration,Large file transfers detected to external servers during off-duty hours,Active,SSgt Davis,1
+INTSUM-2028-058,3/23/2028,930,HUMINT,Physical,Commissary,Low,Personnel Questioning,Civilians asking detailed questions about base personnel and schedules,Monitoring,LCpl Johnson,3

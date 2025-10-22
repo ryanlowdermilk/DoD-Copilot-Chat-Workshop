@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-Free-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
 
-A comprehensive collection of hands-on training materials designed to teach Department of Defense personnel how to effectively use Microsoft Copilot Chat through authentic, service-specific scenarios.
+A comprehensive collection of hands-on training materials for U.S. military services and federal agencies, featuring facilitator-led workshops that demonstrate six core Copilot capabilities through authentic, organization-specific scenarios with progressive prompt building techniques.
 
 | Service | Status | Facilitators Guide | Sample Data | Last Updated |
 |---------|--------|---------------|-------------|--------------|
@@ -12,8 +12,9 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 | 🪖 USA  | 🔄 In Progress | [View](USA/README.md) | - | - |
 | ✈️ USAF | 🔄 In Progress | [View](USAF/README.md) | - | - |
 | ⚓ USN  | 🔄 In Progress | [View](USN/README.md) | - | - |
-| ⛵ USCG | ✅ Complete | [View](USCG/README.md) | [View](/USCG/sample%20data/) | Oct 2025 |
+| ⛵ USCG | 🔄 In Progress | [View](USCG/README.md) | [View](/USCG/sample%20data/) | - |
 | 🚀 USSF | 🔄 In Progress | [View](USSF/README.md) | - | - |
+| 🏛️ DOS  | 🔄 In Progress | [View](DOS/README.md) | [View](/DOS/sample%20data/) | - |
 
 ## 🚀 Quick Start (5 Minutes)
 
@@ -124,10 +125,16 @@ Let's work through this step by step: 1) [analyze], 2) [identify], 3) [recommend
 - **Staff Sections:** S-1 (Admin/Personnel), S-2 (Intelligence), S-3 (Operations), S-4 (Logistics), S-6 (Communications)
 
 ### USCG (United States Coast Guard)
-- **Status:** Complete ✅
+- **Status:** In Progress 🔄
 - **File:** [USCG/README.md](USCG/README.md)
 - **Installations:** Base Cape Cod, Base Alameda, Sector Commands (Boston, San Diego, Charleston, San Francisco)
 - **Functional Areas:** Administration/Personnel, Operations, Logistics/Engineering, IT/Communications, Intelligence
+
+### DOS (Department of State)
+- **Status:** In Progress 🔄
+- **File:** [DOS/README.md](DOS/README.md)
+- **Installations:** U.S. Embassies (Warsaw, Berlin, Tokyo, London, Nairobi, Paris), Consulates, Domestic State Department Offices
+- **Functional Areas:** Consular Affairs (CA), Political Affairs, Management Affairs, Information Management (IM), Intelligence & Research (INR), Executive Office (EX)
 
 ### USA (United States Army)
 - **Status:** Pending
@@ -170,7 +177,6 @@ This project is maintained for DoD training purposes. For updates or corrections
 ## Version History
 
 - **v1.0** (October 2025) - Initial USMC Facilitators Guide
-- **v1.1** (October 2025) - Added USCG Facilitators Guide
 - Additional service branches in development
 
 ## License

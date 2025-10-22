@@ -338,11 +338,13 @@ As an Engineering Petty Officer at Base Cape Cod, analyze this cutter readiness 
 
 
 #### Technical Steps
-1. Open Excel with [sample maintenance dataset](/USMC/sample%20data/scenario3_equipment_readiness.xlsx) and review the data.
-2. Upload the sample dataset or copy data range and paste into Copilot Chat.
-3. Use progressive prompts to generate insights.
-4. Copy suggestions back to Excel to create charts.
-5. Verify patterns match data.
+1. Open Excel with [sample maintenance dataset](/USMC/sample%20data/scenario3_equipment_readiness.csv) and review the data.
+2. Create a table in Excel: Select the data range, then click **Insert > Table** (or press Ctrl+T) and confirm the range includes headers.
+3. **Option A - Copy/Paste:** Copy the table data range and paste into Copilot Chat.
+   **Option B - Drag/Drop:** First save the file as an Excel workbook (.xlsx) with **File > Save As**, then drag and drop the .xlsx file into Copilot Chat.
+4. Use progressive prompts to generate insights.
+5. Copy suggestions back to Excel to create charts.
+6. Verify patterns match data.
 
 #### Facilitation Notes
 > 💡 **Tips:**
@@ -419,7 +421,7 @@ As an IT admin at Sector Charleston, design a Power Automate flow for help desk:
 
 #### Technical Steps
 1. Open Power Automate and start a new flow.
-2. Upload or paste [ticket sample data](/USMC/sample%20data/scenario4_helpdesk_tickets.xlsx) into Copilot Chat.
+2. Upload or paste [ticket sample data](/USMC/sample%20data/scenario4_helpdesk_tickets.csv) into Copilot Chat.
 3. Use prompts to generate flow logic and step-by-step pseudocode (Copilot does not directly automate Power Automate flows; users must implement logic manually).
 4. Copy Copilot's suggested steps to Power Automate and build the flow.
 5. Test basic automation.
@@ -498,7 +500,7 @@ As an Intelligence Specialist at Sector San Francisco, search this Power BI dash
 
 
 #### Technical Steps
-1. Open Power BI with [sample intel dataset](/USMC/sample%20data/scenario5_intelligence_data.xlsx).
+1. Open Power BI with [sample intel dataset](/USMC/sample%20data/scenario5_intelligence_data.csv).
 2. Copy dashboard metrics or visual descriptions into Copilot Chat (Copilot does not directly extract data from Power BI dashboards; users must manually describe or export data).
 3. Use prompts to extract and organize data.
 4. Copy organized output back to Power BI notes or report.
