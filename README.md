@@ -12,6 +12,7 @@ A comprehensive collection of hands-on training materials designed to teach Depa
 | 🪖 USA  | 🔄 In Progress | [View](USA/README.md) | - | - |
 | ✈️ USAF | 🔄 In Progress | [View](USAF/README.md) | - | - |
 | ⚓ USN  | 🔄 In Progress | [View](USN/README.md) | - | - |
+| ⛵ USCG | ✅ Complete | [View](USCG/README.md) | [View](/USCG/sample%20data/) | Oct 2025 |
 | 🚀 USSF | 🔄 In Progress | [View](USSF/README.md) | - | - |
 
 ## 🚀 Quick Start (5 Minutes)
@@ -78,7 +79,7 @@ Each service-specific workshop demonstrates these six Copilot capabilities:
 
 ### For Facilitators
 
-1. Navigate to your service branch folder (USA, USAF, USMC, USN, or USSF)
+1. Navigate to your service branch folder (USA, USAF, USMC, USCG, USN, or USSF)
 2. Review the facilitator guide for detailed facilitation instructions
 3. Verify technical environment setup per prerequisites
 4. Prepare sample datasets (templates provided in service folders)
@@ -118,9 +119,15 @@ Let's work through this step by step: 1) [analyze], 2) [identify], 3) [recommend
 
 ### USMC (United States Marine Corps)
 - **Status:** Complete ✅
-- **File:** [USMC/Copilot Chat Facilitators Guide.markdown](USMC/Copilot%20Chat%20Facilitators%20Guide.markdown)
+- **File:** [USMC/README.md](USMC/README.md)
 - **Installations:** Camp Lejeune, Camp Pendleton, Quantico
 - **Staff Sections:** S-1 (Admin/Personnel), S-2 (Intelligence), S-3 (Operations), S-4 (Logistics), S-6 (Communications)
+
+### USCG (United States Coast Guard)
+- **Status:** Complete ✅
+- **File:** [USCG/README.md](USCG/README.md)
+- **Installations:** Base Cape Cod, Base Alameda, Sector Commands (Boston, San Diego, Charleston, San Francisco)
+- **Functional Areas:** Administration/Personnel, Operations, Logistics/Engineering, IT/Communications, Intelligence
 
 ### USA (United States Army)
 - **Status:** Pending
@@ -163,6 +170,7 @@ This project is maintained for DoD training purposes. For updates or corrections
 ## Version History
 
 - **v1.0** (October 2025) - Initial USMC Facilitators Guide
+- **v1.1** (October 2025) - Added USCG Facilitators Guide
 - Additional service branches in development
 
 ## License
